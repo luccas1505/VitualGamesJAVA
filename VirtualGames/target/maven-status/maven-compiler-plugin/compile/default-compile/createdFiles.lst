@@ -1,0 +1,11 @@
+br\com\games\VirtualGames\model\ClientesPayload.class
+br\com\games\VirtualGames\model\Cliente.class
+br\com\games\VirtualGames\Service\ConselhoService.class
+br\com\games\VirtualGames\model\Cliente$ClienteBuilder.class
+br\com\games\VirtualGames\model\InformacoesPayload.class
+br\com\games\VirtualGames\controller\ConselhoController.class
+br\com\games\VirtualGames\model\Conselho.class
+br\com\games\VirtualGames\exception\ResourceNotFoundException.class
+br\com\games\VirtualGames\model\InformacoesPayload$InformacoesPayloadBuilder.class
+br\com\games\VirtualGames\model\ResponsePayload.class
+br\com\games\VirtualGames\VirtualGamesApplication.class
