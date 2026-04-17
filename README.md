@@ -1,35 +1,30 @@
-# 🎮 Virtual Games (Java)
+#  Virtual Games (Java)
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
-O **Virtual Games** é um sistema desenvolvido em Java com o objetivo de simular o gerenciamento de jogos em uma plataforma virtual.
+O **Virtual Games** é um sistema desenvolvido em Java que simula o gerenciamento de jogos em uma plataforma virtual.
 
-O projeto foi criado com foco em praticar conceitos fundamentais de programação orientada a objetos (POO), como:
-
-* Encapsulamento
-* Organização de classes
-* Estruturação de sistemas
-* Lógica de programação
+O projeto tem como foco a aplicação prática de conceitos de programação orientada a objetos, organização de código e desenvolvimento de sistemas.
 
 ---
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 * Cadastro de jogos
 * Listagem de jogos disponíveis
-* Manipulação de dados dos jogos
-* Simulação de um sistema simples de gerenciamento
+* Manipulação e organização de dados
+* Simulação de um sistema de gerenciamento
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 * Java
 * Programação Orientada a Objetos (POO)
 
 ---
 
-## ▶️ Como executar o projeto
+##  Como executar o projeto
 
 1. Clone o repositório:
 
@@ -37,7 +32,7 @@ O projeto foi criado com foco em praticar conceitos fundamentais de programaçã
 git clone https://github.com/luccas1505/VitualGamesJAVA.git
 ```
 
-2. Abra o projeto em uma IDE de sua preferência:
+2. Abra o projeto em uma IDE:
 
 * IntelliJ IDEA
 * Eclipse
@@ -47,24 +42,30 @@ git clone https://github.com/luccas1505/VitualGamesJAVA.git
 
 ---
 
+##  Conceitos aplicados
 
-## 🎯 Objetivo
-
-Este projeto foi desenvolvido com fins educacionais, com o objetivo de consolidar conhecimentos em Java e desenvolvimento de sistemas.
-
----
-
-## 👨‍💻 Autor
-
-Luccas
+* Encapsulamento
+* Organização de classes
+* Estruturação de sistemas
+* Lógica de programação
 
 ---
 
-## 📌 Melhorias futuras
+##  Objetivo
+
+Desenvolver uma aplicação prática para consolidar conhecimentos em Java, com foco em boas práticas de programação e organização de código.
+
+---
+
+##  Melhorias futuras
 
 * Implementação de interface gráfica
 * Integração com banco de dados
-* Melhor organização em camadas (MVC)
+* Arquitetura em camadas (MVC)
 * Tratamento de exceções mais robusto
 
 ---
+
+##  Autor
+
+Luccas
